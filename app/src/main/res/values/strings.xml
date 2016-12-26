@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">ITSEC</string>
+
+
+    <!--ActionBar Items-->
+    <string name="action_erplogin">ERP Login</string>
+    <string name="action_cmslogin">CMS Login</string>
+    <string name="action_rateus">Rate Us</string>
+    <!--End ActionBar Items-->
+
+    <!--Navigation Items-->
+    <string name="nav_home">Home</string>
+    <string name="nav_academic">Academic</string>
+    <string name="nav_courses">Courses</string>
+    <string name="nav_infra">Infrastructure</string>
+    <string name="nav_newsevents">News \u0026 Events</string>
+    <string name="nav_placement">Placement</string>
+    <string name="nav_enquiry">Enquiry</string>
+    <string name="nav_about">About Us</string>
+    <string name="nav_call">Call Us</string>
+    <string name="nav_email">E-mail Us</string>
+    <string name="nav_fb">Facebook</string>
+    <string name="nav_youtube">Youtube</string>\
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!--End Navigation Items-->
+
+    <!--Welcome and Introduction Slider-->
+    <string name="intro_skip">Skip</string>
+    <string name="intro_slide11"><b>Welcome to</b></string>
+    <string name="intro_slide12">I.T.S - The Education Group</string>
+    <string name="intro_slide21">VISION</string>
+    <string name="intro_slide22">To be the technical Institution of Choice</string>
+    <string name="intro_slide23">MISION</string>
+    <string name="intro_slide24">To make incessant Endeavour to create learning processes in response to changing technical paradigms</string>
+    <string name="intro_slide25">I.T.S Engineering College</string>
+    <!--End Welcome and Introduction Slider-->
+
+    <!--EnquiryForm Page Validation-->
+    <string name="lgin_enquiry"><b>Enquiry Form</b></string>
+    <string name="lgin_name">Enter your name</string>
+    <string name="nameerror">Enter a valid name</string>
+    <string name="lgin_email">Enter your E-mail</string>
+    <string name="emailerror">Enter a valid email</string>
+    <string name="lgin_mobile">Enter your contact no.</string>
+    <string name="mobileerror">Enter a valid mobile</string>
+    <string name="lgin_subject">Subject</string>
+    <string name="lgin_query">Enter your query</string>
+    <string name="lgin_submit">Submit</string>
+    <!-- End EnquiryForm Page Validation-->
+
+    <!--About Institute-->
+    <string name="about_institute">About Institute</string>
+    <string name="about_institute_data">I.T.S-The Education Group under Durga Charitable Society established its first campus at Mohan Nagar, Ghaziabad in 1995. The group is committed to its vision of providing value based education with a focus on excellence in academics. The group has eminent academicians and acclaimed professionals as faculty and guest faculty, committed students, alumni network and a strong corporate network that has helped in building I.T.S as a premier group of institution. I.T.S takes pride in providing knowledge and competencies in the areas of Management, Information Technology, Dental Science, Engineering, Biotechnology, Paramedical Science and Pharmacy.</string>
+    <!--End About Institute-->
+
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/nav_home" />
+        <item
+            android:id="@+id/nav_academic"
+            android:icon="@drawable/ic_academic"
+            android:title="@string/nav_academic" />
+        <item
+            android:id="@+id/nav_courses"
+            android:icon="@drawable/ic_courses"
+            android:title="@string/nav_courses" />
+        <item
+            android:id="@+id/nav_infra"
+            android:icon="@drawable/ic_infra"
+            android:title="@string/nav_infra" />
+        <item
+            android:id="@+id/nav_newsEvents"
+            android:icon="@drawable/ic_newsevents"
+            android:title="@string/nav_newsevents" />
+        <item
+            android:id="@+id/nav_placement"
+            android:icon="@drawable/ic_placement"
+            android:title="@string/nav_placement" />
+        <item
+            android:id="@+id/nav_enquiry"
+            android:icon="@drawable/ic_enquiry"
+            android:title="@string/nav_enquiry" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_about"
+            android:title="@string/nav_about" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_call"
+                android:icon="@drawable/ic_call"
+                android:title="@string/nav_call" />
+            <item
+                android:id="@+id/nav_email"
+                android:icon="@drawable/ic_email"
+                android:title="@string/nav_email" />
+            <item
+                android:id="@+id/nav_fb"
+                android:icon="@drawable/ic_fb"
+                android:title="@string/nav_fb" />
+            <item
+                android:id="@+id/nav_youtube"
+                android:icon="@drawable/ic_youtube"
+                android:title="@string/nav_youtube" />
+        </menu>
+    </item>
+
+</menu>
+
